@@ -1,0 +1,26 @@
+{
+    "files.associations": {
+        "getopt.h": "c",
+        "formats.h": "c",
+        "ioctl.h": "c",
+        "sbc.h": "c",
+        "ctype.h": "c",
+        "byteswap.h": "c",
+        "errno.h": "c",
+        "unistd.h": "c",
+        "bitset": "c",
+        "unordered_map": "c",
+        "sbc_tables.h": "c",
+        "stdint.h": "c",
+        "sbc_private.h": "c",
+        "sbc_primitives.h": "c",
+        "algorithm": "c",
+        "concepts": "c",
+        "type_traits": "c",
+        "functional": "c",
+        "iterator": "c",
+        "optional": "c",
+        "tuple": "c"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}
